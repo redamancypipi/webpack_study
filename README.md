@@ -213,5 +213,6 @@ module: {
 
 ```
 
+##### importLoaders
 
-
+##### file-loader
